@@ -1,0 +1,18 @@
+CREATE TABLE traffic_stops (
+    stop_date DATE,
+    stop_time TIME,
+    country_name VARCHAR(50),
+    driver_gender VARCHAR(10),
+    driver_age_raw INT,
+    driver_age INT,
+    driver_race VARCHAR(50),
+    violation_raw VARCHAR(100),
+    violation VARCHAR(50),
+    search_conducted BOOLEAN,
+    search_type VARCHAR(50),
+    stop_outcome VARCHAR(50),
+    is_arrested BOOLEAN,
+    stop_duration VARCHAR(20),
+    drugs_related_stop BOOLEAN,
+    vehicle_number VARCHAR(20)
+);
