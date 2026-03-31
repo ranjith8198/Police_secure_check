@@ -33,12 +33,22 @@ Streamlit       – Web application and visualization
 
 SecureCheck/
 
-├── app.py                   # Streamlit dashboard
-├── check_data.py            # Data cleaning & preprocessing
-├── traffic_stops.csv        # Dataset
-├── database_schema.sql      # SQL table creation script
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation
+SecureCheck/
+│
+├── Data/
+│   └── traffic_stops.csv
+│   └── traffic_stops_cleaned.csv
+│
+├── src/
+│   ├── app.py
+│   └── check_data.py
+│
+├── SQL_Scripts/
+│   └── database_schema.sql
+│   └── securecheck_queries.sql
+│
+├── README.md
+├── requirements.txt
 
 ---
 
