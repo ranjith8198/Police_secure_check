@@ -37,11 +37,13 @@ Streamlit       – Web application and visualization
 SecureCheck/
 
 SecureCheck/
+
 │
 ├── Data/
 │   └── traffic_stops.csv
 │   └── traffic_stops_cleaned.csv
 │
+
 ├── python_scripts/
 │   └── app.py
 │   └── check_data.py
