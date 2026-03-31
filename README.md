@@ -1,4 +1,4 @@
-# 🚓 SecureCheck: Police Check Post Dashboard
+# 🚓 SecureCheck: A Python-SQL Digital Ledger for Police Post Logs
 
 ## 📌 Project Description
 
