@@ -12,8 +12,11 @@ It helps officers quickly identify suspicious vehicles, monitor violations, and 
 
 ## 🛠️ Technologies Used
 Python(Pandas)  – Data preprocessing and analysis
+
 PostgreSQL      – Data storage and management
+
 SQLAlchemy      – Database connectivity
+
 Streamlit       – Web application and visualization
 
 ---
