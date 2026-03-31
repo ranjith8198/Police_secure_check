@@ -39,7 +39,7 @@ SecureCheck/
 │   └── traffic_stops.csv
 │   └── traffic_stops_cleaned.csv
 │
-├── src/
+├── python_scripts/
 │   ├── app.py
 │   └── check_data.py
 │
