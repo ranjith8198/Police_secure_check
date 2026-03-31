@@ -38,21 +38,26 @@ SecureCheck/
 
 SecureCheck/
 
-│
 ├── Data/
-│   └── traffic_stops.csv
-│   └── traffic_stops_cleaned.csv
-│
 
+   └── traffic_stops.csv
+   
+   └── traffic_stops_cleaned.csv
+  
 ├── python_scripts/
-│   └── app.py
-│   └── check_data.py
-│
+
+   └── app.py
+   
+   └── check_data.py
+   
 ├── SQL_Scripts/
-│   └── database_schema.sql
-│   └── securecheck_queries.sql
-│
+   
+   └── database_schema.sql
+   
+   └── securecheck_queries.sql
+
 ├── README.md
+
 ├── requirements.txt
 
 ---
